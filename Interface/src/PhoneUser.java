@@ -5,7 +5,7 @@
 import Interfaces.Phone;
 /**
  *
- * @author salir
+ * 
  */
 public class PhoneUser {
     private Phone phone;
